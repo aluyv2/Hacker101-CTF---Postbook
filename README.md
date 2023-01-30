@@ -57,6 +57,9 @@
 
 - **Acquired By:** Inspecting the page upon login under 'network' there is a cookie ID: id=MD5hash. Using a hash translator and cookie editor add-on from FireFox, the cookie can be changed to the hash of 1 in order to sign in as 'admin' after refreshing the page.
 
+  - ![image](https://user-images.githubusercontent.com/123699576/215366876-9ef81b70-894a-44e0-87a8-c5a6f44d7b0c.png)
+
+
   - ![image](https://user-images.githubusercontent.com/123699576/215364082-26091655-e6a7-4a4a-a562-b5d07ca8de2a.png)
 
 
